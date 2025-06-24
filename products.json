@@ -1,12 +1,12 @@
 [
 {
-"productName": "Ucore Ultra Laptop 14\"",
+"productName": "Uplus Ultra Laptop 14\"",
 "category": "Laptops",
 "price": 1199.99,
 "sku": "UL-14-2025"
 },
 {
-"productName": "Ucore Mini Smart Speaker",
+"productName": "Uplus Mini Smart Speaker",
 "category": "Smart Home",
 "price": 49.99,
 "sku": "SM-SPKR-MINI"
@@ -36,13 +36,13 @@
 "sku": "CHRG-GAN-100"
 },
 {
-"productName": "Ucore Action Cam X2",
+"productName": "Uplus Action Cam X2",
 "category": "Cameras",
 "price": 249.99,
 "sku": "CAM-AC-X2"
 },
 {
-"productName": "Ucore Smartwatch S5",
+"productName": "Uplus Smartwatch S5",
 "category": "Wearables",
 "price": 299.99,
 "sku": "WATCH-S5"
